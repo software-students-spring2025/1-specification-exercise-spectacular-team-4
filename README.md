@@ -4,11 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Lana _____: https://github.com/
-Joylyn Gong: https://github.com/
-Eli Sun: https://github.com/
-Samantha Lin: https://github.com/sal2948
-
+Lana _____: https://github.com/  
+Joylyn Gong: https://github.com/  
+Eli Sun: https://github.com/  
+Samantha Lin: https://github.com/sal2948  
 
 
 ## Stakeholders
