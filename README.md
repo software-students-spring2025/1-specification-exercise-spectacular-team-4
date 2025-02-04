@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 Lana _____: https://github.com/  
-Joylyn Gong: https://github.com/joylyngong
+Joylyn Gong: https://github.com/joylyngong  
 Eli Sun: https://github.com/  
 Samantha Lin: https://github.com/sal2948  
 
