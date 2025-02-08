@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Lana Davydov: https://github.com/lanadavydov  
 Joylyn Gong: https://github.com/joylyngong  
-Eli Sun: https://github.com/IDislikeName
+Eli Sun: https://github.com/IDislikeName  
 Samantha Lin: https://github.com/sal2948  
 
 
