@@ -12,7 +12,25 @@ Samantha Lin: https://github.com/sal2948
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+**Stakeholder:**
+
+Alina is a NYU student who reads often, and currently uses Goodreads to rate books, keep track of books she has read, and find new books to read. However, she feels that Goodreads could be improved in design and function.
+
+#### Goals/Needs:  
+
+- A place to talk with other users casually about a specific book or series 
+- Get better and more accurate recommendations for new books to read
+- Streamlined interface that focuses on tracking books and sharing opinions
+- Platform with more focus on what my friends and other people on the platform are currently reading
+
+#### Problems/Frustrations:  
+
+- Few places to converse online with others about a book or series, especially if the book/series is not popular
+- Design of the Goodreads app is not good, since you have to go through multiple screens to reach your shelves (user’s lists of books) 
+- Goodreads search function often brings up books unrelated to search query
+- Recommendations are usually not accurate to user's preferences, takes a long time to find a good book to read
+- No half-star ratings in Goodreads (ex. a 4.5 star rating), only whole-star ratings allowed
+
 
 ## Product Vision Statement
 
@@ -20,7 +38,6 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
 
 ## Activity Diagrams
 
