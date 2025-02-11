@@ -55,6 +55,7 @@ Alina is a NYU student who reads often, and currently uses Goodreads to rate boo
 
 **UML Activity Diagram for User Story #2:** 
 > "As a reader who likes to share my opinion, I want to be able to leave reviews and comments on a book, so I can keep track of my own reviews and have others see them."
+![alt text](Userstory2.png)
 
 **UML Activity Diagram for User Story #5:** 
 > "As a curious reader exploring new genres, I want to see other users’ reviews of a specific book, so I can decide whether I want to read it."
