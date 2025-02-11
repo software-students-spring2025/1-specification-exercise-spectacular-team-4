@@ -45,6 +45,9 @@ Bookmarkd is a community-driven platform where readers can rate books, write and
 1. As a reader, I want to see other users’ reviews of a book, so I can decide if I want to read it.
 1. As a reader, I want to follow other users who have similar book ratings to my own, so I can befriend people with similar reading interests.
 1. As a reader, I want to receive notifications when someone interacts with my review, so I can have engaging and active discussions with them.
+1. As a person who just got into reading, I want to see trending books and their reviews so I can have an easier time finding my first books.
+1. As a person who hates reading alone, I want to talk to a group of other people with the same interest, so I can feel a sense of community when I’m reading.
+1. As a reader, I want to sort books by genres or authors, so it is easier to find books I want to read.
 
 
 
