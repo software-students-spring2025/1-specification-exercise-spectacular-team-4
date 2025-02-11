@@ -58,7 +58,7 @@ Alina is a NYU student who reads often, and currently uses Goodreads to rate boo
 
 **UML Activity Diagram for User Story #5:** 
 > "As a curious reader exploring new genres, I want to see other users’ reviews of a specific book, so I can decide whether I want to read it."
-![alt text](umlDiagram.png)
+![alt text](UserStory5UML.png)
 
 
 
