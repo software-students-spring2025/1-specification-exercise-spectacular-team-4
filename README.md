@@ -38,10 +38,14 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-- As a person who reads often, I want to track the books that I read, so I can have see what books I've read so far.
-- As a reader who likes to share my opinion, I want to be able to leave reviews and comments on a book, so I can keep track of my own reviews and have others see them.
-- As a fan of a specific book, I want to talk to other users about that book, so I can connect with other users outside of commenting on reviews.
-- As a reader, I want to rate books easily, so I can compare how much I liked one book over another.
+1. As a person who reads often, I want to track the books that I read, so I can have see what books I've read so far.
+1. As a reader who likes to share my opinion, I want to be able to leave reviews and comments on a book, so I can keep track of my own reviews and have others see them.
+1. As a fan of a specific book, I want to talk to other users about that book, so I can connect with other users outside of commenting on reviews.
+1. As a reader, I want to rate books easily, so I can compare how much I liked one book over another.
+1. As a reader, I want to see other users’ reviews of a book, so I can decide if I want to read it.
+1. As a reader, I want to follow other users who have similar book ratings to my own, so I can befriend people with similar reading interests.
+1. As a reader, I want to receive notifications when someone interacts with my review, so I can have engaging and active discussions with them.
+
 
 
 ## Activity Diagrams
