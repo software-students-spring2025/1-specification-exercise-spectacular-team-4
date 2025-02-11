@@ -34,7 +34,7 @@ Alina is a NYU student who reads often, and currently uses Goodreads to rate boo
 
 ## Product Vision Statement
 
-Bookmarkd is a community-driven platform where readers can rate books, write and discuss reviews, compare favorites, track their reading journey, and discover new books through personalized recommendations, uniting passionate readers in an engaging environment that inspires lifelong learning and fosters meaningful literary connections.
+*Bookmarkd* is a community-driven platform where readers can rate books, write and discuss reviews, compare favorites, track their reading journey, and discover new books through personalized recommendations, uniting passionate readers in an engaging environment that inspires lifelong learning and fosters meaningful literary connections.
 
 ## User Requirements
 
@@ -42,9 +42,9 @@ Bookmarkd is a community-driven platform where readers can rate books, write and
 1. As a reader who likes to share my opinion, I want to be able to leave reviews and comments on a book, so I can keep track of my own reviews and have others see them.
 1. As a fan of a specific book, I want to talk to other users about that book, so I can connect with other users outside of commenting on reviews.
 1. As a reader, I want to rate books easily, so I can compare how much I liked one book over another.
-1. As a reader, I want to see other users’ reviews of a specific book, so I can decide whether I want to read it.
-1. As a reader, I want to follow other users who have similar book ratings to my own, so I can befriend people with similar reading interests.
-1. As a reader, I want to receive notifications when someone interacts with my review, so I can have engaging and active discussions with them.
+1. As a curious reader exploring new genres, I want to see other users’ reviews of a specific book, so I can decide whether I want to read it.
+1. As a reader who enjoys discovering like-minded book lovers, I want to follow other users who have similar book ratings to my own, so I can befriend people with similar reading interests.
+1. As an active reviewer who loves discussing books, I want to receive notifications when someone interacts with my review, so I can have engaging and active discussions with them.
 1. As a person who just got into reading, I want to see trending books and their reviews so I can have an easier time finding my first books.
 1. As a person who hates reading alone, I want to talk to a group of other people with the same interest, so I can feel a sense of community when I’m reading.
 1. As a reader, I want to sort books by genres or authors, so it is easier to find books I want to read.
@@ -57,7 +57,7 @@ Bookmarkd is a community-driven platform where readers can rate books, write and
 > "As a reader who likes to share my opinion, I want to be able to leave reviews and comments on a book, so I can keep track of my own reviews and have others see them."
 
 **UML Activity Diagram for User Story #5:** 
-> "As a reader, I want to see other users’ reviews of a specific book, so I can decide whether I want to read it."
+> "As a curious reader exploring new genres, I want to see other users’ reviews of a specific book, so I can decide whether I want to read it."
 ![alt text](umlDiagram.png)
 
 
