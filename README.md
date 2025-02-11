@@ -42,7 +42,7 @@ Bookmarkd is a community-driven platform where readers can rate books, write and
 1. As a reader who likes to share my opinion, I want to be able to leave reviews and comments on a book, so I can keep track of my own reviews and have others see them.
 1. As a fan of a specific book, I want to talk to other users about that book, so I can connect with other users outside of commenting on reviews.
 1. As a reader, I want to rate books easily, so I can compare how much I liked one book over another.
-1. As a reader, I want to see other users’ reviews of a book, so I can decide if I want to read it.
+1. As a reader, I want to see other users’ reviews of a specific book, so I can decide whether I want to read it.
 1. As a reader, I want to follow other users who have similar book ratings to my own, so I can befriend people with similar reading interests.
 1. As a reader, I want to receive notifications when someone interacts with my review, so I can have engaging and active discussions with them.
 1. As a person who just got into reading, I want to see trending books and their reviews so I can have an easier time finding my first books.
@@ -51,9 +51,19 @@ Bookmarkd is a community-driven platform where readers can rate books, write and
 
 
 
-## Activity Diagrams
+## Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**UML Activity Diagram for User Story #2:** 
+> "As a reader who likes to share my opinion, I want to be able to leave reviews and comments on a book, so I can keep track of my own reviews and have others see them."
+
+**UML Activity Diagram for User Story #5:** 
+> "As a reader, I want to see other users’ reviews of a specific book, so I can decide whether I want to read it."
+![alt text](umlDiagram.png)
+
+
+
+## Wireframe Diagrams
+Create a set of wireframe diagrams representing every screen of the application. Wireframes are black-and-white diagrams that show the general layout of the screen, and the content that appears on each screen, but not the actual colors, images, fonts, or other visual design elements that will be used in the final product.
 
 ## Clickable Prototype
 
