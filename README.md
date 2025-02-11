@@ -68,4 +68,4 @@ Create a set of wireframe diagrams representing every screen of the application.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Link to our prototype: https://www.figma.com/proto/5al0e0yPtAENHYXE0s4kKB/spectacular-team-4?node-id=54-4&t=MrcNvmeh8M2wlfHU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=54%3A4&show-proto-sidebar=1 
