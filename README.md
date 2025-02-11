@@ -34,7 +34,7 @@ Alina is a NYU student who reads often, and currently uses Goodreads to rate boo
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Bookmarkd is a community-driven platform where readers can rate books, write and discuss reviews, compare favorites, track their reading journey, and discover new books through personalized recommendations, uniting passionate readers in an engaging environment that inspires lifelong learning and fosters meaningful literary connections.
 
 ## User Requirements
 
