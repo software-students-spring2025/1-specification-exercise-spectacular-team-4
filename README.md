@@ -62,10 +62,6 @@ Alina is a NYU student who reads often, and currently uses Goodreads to rate boo
 ![alt text](UserStory5UML.png)
 
 
-
-## Wireframe Diagrams
-Create a set of wireframe diagrams representing every screen of the application. Wireframes are black-and-white diagrams that show the general layout of the screen, and the content that appears on each screen, but not the actual colors, images, fonts, or other visual design elements that will be used in the final product.
-
 ## Clickable Prototype
 
 Link to our prototype: https://www.figma.com/proto/5al0e0yPtAENHYXE0s4kKB/spectacular-team-4?node-id=54-4&t=MrcNvmeh8M2wlfHU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=54%3A4&show-proto-sidebar=1 
